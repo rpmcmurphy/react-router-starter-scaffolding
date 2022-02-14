@@ -1,2 +1,2 @@
 # react-router-starter-scaffolding
-Created with CodeSandbox
+A full-scale application level scaffolding of React router. 
